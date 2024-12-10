@@ -1,7 +1,7 @@
 {
   "vendor": "pillin",
   "name": "custom-pagination",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "custom-pagination",
   "description": "custom-pagination app",
   "builders": {
